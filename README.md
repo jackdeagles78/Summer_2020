@@ -7,5 +7,5 @@ UPDATE 2022: The Leslie Lab has moved to UBC. The server it was hosted on is no 
 The Leslie LIMS provides experimentalists a way to keep a digital record of their biological samples. The lab utilizes CLiC (Convex Lens-induced Confinement) imaging 
 inspect various kinds of molecules with individual properties. For this reason, the database enables users to log a large variety of samples. 
 
-This video outlines the features that were available:
+This video outlines the features that were available: https://youtu.be/37ObqkWyl2A
 
